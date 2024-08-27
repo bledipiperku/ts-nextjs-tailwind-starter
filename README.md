@@ -3,7 +3,8 @@
 <div align="center">
   <h2>🔋 ts-nextjs-tailwind-starter</h2>
   <p>Next.js + Tailwind CSS + TypeScript starter packed with useful development features.</p>
-  <p>Made by <a href="https://theodorusclarence.com">Theodorus Clarence</a></p>
+  <p>Made by Theodorus Clarence</p>
+  <p>Forked and updated by <a href="https://piperku.com">Bledi Piperku</a></p>
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/theodorusclarence/ts-nextjs-tailwind-starter)](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/stargazers)
 [![Depfu](https://badges.depfu.com/badges/fc6e730632ab9dacaf7df478a08684a7/overview.svg)](https://depfu.com/github/theodorusclarence/ts-nextjs-tailwind-starter?project_id=30160)
@@ -55,24 +56,24 @@ You can also check all of the **details and demos** on my blog post:
 2. Using `create-next-app`
 
    ```bash
-   pnpm create next-app  -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter ts-pnpm
+   pnpm create next-app  -e https://github.com/bledipiperku/ts-nextjs-tailwind-starter ts-pnpm
    ```
 
    If you still want to use **pages directory** (_is not actively maintained_) you can use this command
 
    ```bash
-   npx create-next-app -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/tree/pages-directory project-name
+   npx create-next-app -e https://github.com/bledipiperku/ts-nextjs-tailwind-starter/tree/pages-directory project-name
    ```
 
 3. Using `degit`
 
    ```bash
-   npx degit theodorusclarence/ts-nextjs-tailwind-starter YOUR_APP_NAME
+   npx degit bledipiperku/ts-nextjs-tailwind-starter YOUR_APP_NAME
    ```
 
 4. Deploy to Vercel
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2Fts-nextjs-tailwind-starter)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%bledipiperku%2Fts-nextjs-tailwind-starter)
 
 ### 2. Install dependencies
 
@@ -111,12 +112,13 @@ TEMPLATE
 - [sitename](https://sitelink.com) ([Source](https://github.com/githublink))
 - [sitename](https://sitelink.com)
 -->
-
-- [theodorusclarence.com](https://theodorusclarence.com) ([Source](https://github.com/theodorusclarence/theodorusclarence.com))
 - [Notiolink](https://notiolink.thcl.dev/) ([Source](https://github.com/theodorusclarence/notiolink))
 - [NextJs + Materia UI + Typescript](https://github.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter)
 
 Are you using this starter? Please add your page (and repo) to the end of the list via a [Pull Request](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/edit/main/README.md). 😃
+
+## My Portfolio
+- [Bledi Portfolio](https://piperku.com/) 
 
 ## Expansion Pack 📦
 
