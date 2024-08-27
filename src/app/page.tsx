@@ -37,7 +37,7 @@ export default function HomePage() {
             Import, Seo, Link component, pre-configured with Husky{' '}
           </p>
           <p className='mt-2 text-sm text-gray-700'>
-            <ArrowLink href='https://github.com/theodorusclarence/ts-nextjs-tailwind-starter'>
+            <ArrowLink href='https://github.com/bledipiperku/ts-nextjs-tailwind-starter'>
               See the repository
             </ArrowLink>
           </p>
@@ -47,7 +47,7 @@ export default function HomePage() {
           </ButtonLink>
 
           <UnstyledLink
-            href='https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2Fts-nextjs-tailwind-starter'
+            href='https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fbledipiperku%2Fts-nextjs-tailwind-starter'
             className='mt-4'
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
