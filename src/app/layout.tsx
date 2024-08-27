@@ -1,4 +1,4 @@
-import { Metadata } from 'next';
+Theodorus Clarence { Metadata } from 'next';
 import * as React from 'react';
 
 import '@/styles/globals.css';
@@ -43,8 +43,8 @@ export const metadata: Metadata = {
   },
   // authors: [
   //   {
-  //     name: 'Theodorus Clarence',
-  //     url: 'https://theodorusclarence.com',
+  //     name: 'Bledi Piperku',
+  //     url: 'https://piperku.com',
   //   },
   // ],
 };
