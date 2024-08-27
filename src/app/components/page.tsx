@@ -86,7 +86,7 @@ export default function ComponentPage() {
                     </option>
                   ))}
                 </select>
-                <ButtonLink href='https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/blob/main/src/styles/colors.css'>
+                <ButtonLink href='https://github.com/bledipiperku/ts-nextjs-tailwind-starter/blob/main/src/styles/colors.css'>
                   Check list of colors
                 </ButtonLink>
               </div>
@@ -134,7 +134,7 @@ export default function ComponentPage() {
               </p>
               <div className='space-x-2'>
                 <UnstyledLink href='/'>Internal Links</UnstyledLink>
-                <UnstyledLink href='https://theodorusclarence.com'>
+                <UnstyledLink href='https://piperku.com'>
                   Outside Links
                 </UnstyledLink>
               </div>
@@ -147,7 +147,7 @@ export default function ComponentPage() {
               </p>
               <div className='space-x-2'>
                 <PrimaryLink href='/'>Internal Links</PrimaryLink>
-                <PrimaryLink href='https://theodorusclarence.com'>
+                <PrimaryLink href='https://piperku.com'>
                   Outside Links
                 </PrimaryLink>
               </div>
@@ -160,7 +160,7 @@ export default function ComponentPage() {
               </p>
               <div className='space-x-2'>
                 <UnderlineLink href='/'>Internal Links</UnderlineLink>
-                <UnderlineLink href='https://theodorusclarence.com'>
+                <UnderlineLink href='https://piperku.com'>
                   Outside Links
                 </UnderlineLink>
               </div>
@@ -201,30 +201,30 @@ export default function ComponentPage() {
               <div className='flex flex-wrap gap-2'>
                 <ButtonLink
                   variant='primary'
-                  href='https://theodorusclarence.com'
+                  href='https://piperku.com'
                 >
                   Primary Variant
                 </ButtonLink>
                 <ButtonLink
                   variant='outline'
                   isDarkBg={mode === 'dark'}
-                  href='https://theodorusclarence.com'
+                  href='https://piperku.com'
                 >
                   Outline Variant
                 </ButtonLink>
                 <ButtonLink
                   variant='ghost'
                   isDarkBg={mode === 'dark'}
-                  href='https://theodorusclarence.com'
+                  href='https://piperku.com'
                 >
                   Ghost Variant
                 </ButtonLink>
-                <ButtonLink variant='dark' href='https://theodorusclarence.com'>
+                <ButtonLink variant='dark' href='https://piperku.com'>
                   Dark Variant
                 </ButtonLink>
                 <ButtonLink
                   variant='light'
-                  href='https://theodorusclarence.com'
+                  href='https://piperku.com'
                 >
                   Light Variant
                 </ButtonLink>
