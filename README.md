@@ -20,7 +20,7 @@ This repository is 🔋 battery packed with:
 - ⚛️ React 18
 - ✨ TypeScript
 - 💨 Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color
-- 💎 Pre-built Components — Components that will **automatically adapt** with your brand color, [check here for the demo](https://tsnext-tw.thcl.dev/components)
+- 💎 Pre-built Components — Components that will **automatically adapt** with your brand color, [check here for the demo](https://ts-nextjs-tailwind-starter.vercel.app/components)
 - 🃏 Jest — Configured for unit testing
 - 📈 Absolute Import and Path Alias — Import components using `@/` prefix
 - 📏 ESLint — Find and fix problems in your code, also will **auto sort** your imports
@@ -112,13 +112,15 @@ TEMPLATE
 - [sitename](https://sitelink.com) ([Source](https://github.com/githublink))
 - [sitename](https://sitelink.com)
 -->
+
 - [Notiolink](https://notiolink.thcl.dev/) ([Source](https://github.com/theodorusclarence/notiolink))
 - [NextJs + Materia UI + Typescript](https://github.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter)
 
 Are you using this starter? Please add your page (and repo) to the end of the list via a [Pull Request](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/edit/main/README.md). 😃
 
 ## My Portfolio
-- [Bledi Portfolio](https://piperku.com/) 
+
+- [Bledi Portfolio](https://piperku.com/)
 
 ## Expansion Pack 📦
 

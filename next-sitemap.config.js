@@ -5,7 +5,7 @@
 module.exports = {
   // !STARTERCONF Change the siteUrl
   /** Without additional '/' on the end, e.g. https://piperku.com */
-  siteUrl: 'https://tsnext-tw.thcl.dev',
+  siteUrl: 'https://ts-nextjs-tailwind-starter.vercel.app',
   generateRobotsTxt: true,
   robotsTxtOptions: {
     policies: [{ userAgent: '*', allow: '/' }],
