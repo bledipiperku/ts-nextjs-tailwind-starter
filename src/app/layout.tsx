@@ -1,4 +1,4 @@
-Theodorus Clarence { Metadata } from 'next';
+import { Metadata } from 'next';
 import * as React from 'react';
 
 import '@/styles/globals.css';
